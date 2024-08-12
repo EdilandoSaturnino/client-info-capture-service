@@ -1,6 +1,6 @@
 # client-info-capture-service
 
-**client-info-capture-service** é uma aplicação de microsserviço Node.js que captura informações do cliente, incluindo endereço IP, geolocalização e detalhes do navegador, fornecendo uma API simples para coleta e análise de dados.
+**client-info-capture-service** é uma aplicação de microsserviço Node.ts que captura informações do cliente, incluindo endereço IP, geolocalização e detalhes do navegador, fornecendo uma API simples para coleta e análise de dados.
 
 ## Funcionalidades
 
