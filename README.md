@@ -65,31 +65,6 @@ Envie uma requisição GET para `http://localhost:7000/` para recuperar as infor
 }
 ```
 
-## Estrutura do Projeto
-
-```bash
-/project-root
-│
-├── /src
-│   ├── /services
-│   │   ├── geoLocationService.ts
-│   │   └── ipUtils.ts
-│   │
-│   ├── /controllers
-│   │   └── clientInfoController.ts
-│   │
-│   ├── /routes
-│   │   └── clientInfoRoutes.ts
-│   │
-│   ├── /config
-│   │   └── serverConfig.ts
-│   │
-│   └── app.ts
-│
-├── package.json
-└── tsconfig.json
-```
-
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
